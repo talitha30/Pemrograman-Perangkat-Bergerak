@@ -1,0 +1,4 @@
+#Sat Jan 04 20:55:26 ICT 2020
+base.0=D\:\\Data 1\\MATKUL\\pak kamto smtr3\\upload github\\fiiix upload\\UTS_2C_TalithaSafaNabila_3.37.18.0.19\\list\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
